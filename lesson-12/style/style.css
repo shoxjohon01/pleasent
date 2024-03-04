@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: 
+    #282829;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.wrapper{
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-size: 88px;
+}
+.karta{
+    display: flex;
+}
+.text{
+    text-align: center;
+    font-size: 14px;
+}

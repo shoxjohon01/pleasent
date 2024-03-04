@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+
+.top{
+    width: 100%;
+    height: 10vh;
+    background-color: white;
+}
+.top h1{
+    color: red; text-align: center;
+}
+.middle{
+    width: 100%;
+    background-color: white;
+}
+.middle h1{
+    color: blue; text-align: center;
+}

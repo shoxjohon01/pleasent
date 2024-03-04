@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+h1{
+    background-color: yellow;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    margin-top: 20px;
+    padding: 20px;
+    color: red;
+
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.div1{
+    width: 300px;
+    height: 400px;
+}
+
+img{
+    width: 300px;
+}

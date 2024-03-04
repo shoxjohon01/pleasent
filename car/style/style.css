@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.car{
+    border-radius: 80%;
+    right: 80%;
+    background-color: aqua;
+}
+.container{
+    background-color: ;
+}
